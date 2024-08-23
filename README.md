@@ -18,5 +18,5 @@ I'm a full-time student, I enjoy solving problems and creating new things.
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-plain-wordmark.svg" />
           
 
-## 📫 How to reach me: kylejfournier@gmail.com
-## 🤝 Connect with me: (https://www.linkedin.com/in/kyle-fournier-27ba93299/)
+### 📫 How to reach me: kylejfournier@gmail.com
+### 🤝 Connect with me: (https://www.linkedin.com/in/kyle-fournier-27ba93299/)

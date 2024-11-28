@@ -33,3 +33,5 @@ I'm a full-time computer science student, I enjoy solving problems and creating 
 📫 How to reach me: kylejfournier@gmail.com
 <br />
 🤝 Connect with me: (https://www.linkedin.com/in/kyle-fournier-27ba93299/)
+<br />
+🌐 My portfolio website (https://compscikyle.github.io/3D-Portfolio/)
